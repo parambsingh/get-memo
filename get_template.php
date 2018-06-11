@@ -6,7 +6,7 @@ define('RAIDA_PASSWORD', '5c4a9d7893e04');
 
 function pr($a = []) {
     echo "<pre>";
-    print_r($a);
+    print_r($a); 
     echo "</pre>";
 }
 

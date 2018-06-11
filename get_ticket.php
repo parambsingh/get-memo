@@ -52,14 +52,11 @@ function getTicket() {
     ]
 }';
 
-	$cloudCoins = json_decode($cloudCoinJson, true);
+	$cloudCoins = json_decode($cloudCoinJson, true); 
 	
 	
 	
 	//foreach($cloudCoins['cloudcoin'][0]['an'] as $key => $an){
-
-
-
 
 		"https://raida3.cloudcoin.global/service/get_ticket?nn=1&sn=1373627&toserver=3&an=3cd9a1bed08aab0b11eca0fd8385206f&pan=3cd9a1bed08aab0b11eca0fd8385206f&denomination=1";
 

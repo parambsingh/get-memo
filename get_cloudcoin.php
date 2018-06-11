@@ -53,7 +53,7 @@ try {
 	//~ pr($cloudCoinJson); die;
 
 
-	$cloudCoinJson =  '{
+	$cloudCoinJson =  '{ 
     "cloudcoin": [
         {
             "nn": "1",
